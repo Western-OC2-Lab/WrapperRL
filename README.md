@@ -23,6 +23,14 @@ The codes in (1) `src/main_grid.py`, (2) `src/main_patchDrop.py`, and (3) `src/m
 
 The codes in (1) `src/analyze_results.py` and (2) `src/analyze_patchDrop.py` analyzes the obtained results. 
 
+# Methodology
+![Alt text](methodology_step1_step2_v2.PNG)
+
+![Alt text](WrapperRL_methodology.PNG)
+
+
+
+
 # Contact-Info
 
 Please feel free to contact me for any questions or research opportunities. 
